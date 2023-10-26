@@ -14,4 +14,4 @@ We understand that the crypto space can be fraught with uncertainties. That's wh
 - Our project has received top-notch security ratings, thanks to rigorous audits and scans by de.fi and solidityscan.com.
 - We're pioneering the first public minting in crypto history, ensuring fairness and accessibility for all.
 
-Find us on [http](https://libertatis.finance)https://libertatis.finance
+Find us on [Libertatis.Finance]([https://duckduckgo.com](https://libertatis.finance))
